@@ -17,4 +17,4 @@ jobs:
           TYPE: DAY
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: ${{ secrets.GIST_ID }}
-          RECORDS: "2023-09-18 _ ADsP 접수 | 2023-10-07 _ 정보처리기사 실기"
+          RECORDS: "2024-11-17 _ SQLD"
